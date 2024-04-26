@@ -1,4 +1,4 @@
-# NLP Project
+# Providing a title for a specific text
 
 The project aims to generate a suitable title for a given text. We preprocess and segment the data, then train several models. Next, we take a specific piece of news from the test set and find the main topic of the text to provide a suitable title. We extract the most important words from these topics and input them into the previous models to form the title. Then, we measure how closely these titles align with the given text, and titles are generated using the AraGPT2 model.
 
