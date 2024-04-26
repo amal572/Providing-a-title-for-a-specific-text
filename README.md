@@ -10,6 +10,8 @@ Attempting to generate a title for a text in Arabic, I used the Hespress dataset
 
 I used several deep-learning models to attempt title generation and found that the Attention model performed better than other models.
 
-## Usage
+## Used Libraries
 
-I use Google Colab to train the model.
+- nltk, sklearn, gensim, sentence_transformers
+- NumPy, ArabertPreprocessor, keras, tensorflow
+- Python version 3.6
